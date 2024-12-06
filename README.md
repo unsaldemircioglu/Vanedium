@@ -9,4 +9,8 @@
   <i>=> npm i / npm install</i>
   <i>=> npm run dev </i>
   <hr/>
+  <br/>
+  <h3>Article:</h3>
+  I prepared this project as part of the studies conducted in the art history course at university.
+  <h2>Author is <i>Ünsal Demircioğlu</i></h2>
 </center>
