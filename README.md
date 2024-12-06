@@ -5,25 +5,25 @@
 <hr></hr>
 //-------------------------------
 <br/>
-<b>Setup Project<b>
+<b><h3>Setup Project</h3><b>
 <br/>
-//-------------------------------
+
 <br/>
 =><i>npm install / npm i</i>
 <br/>
 =><i>npm run dev</i>
 <br/>
-//------------------------------
+
 <br/>
-<b>Context</b>
+<b><h3>Context</h3></b>
 <br/>
-//------------------------------
+
 <br/>
 It's an Art Gallery Application for my art history lesson.
 <br/>
-//------------------------------
+
 <br/>
-<b>About Application</b>
+<b><h3>About Application</h3></b>
 <br/>
 //------------------------------
 <br/>
