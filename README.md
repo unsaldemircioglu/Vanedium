@@ -14,6 +14,4 @@
   <h2>Author is <i>Ünsal Demircioğlu</i></h2>
   <hr/>
   <br/>
-![pppppppppppppppppppppppp](https://github.com/user-attachments/assets/c14bf7f0-9ae5-4daa-a90e-ff6a323e67db)
-
   
