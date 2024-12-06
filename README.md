@@ -1,16 +1,16 @@
 //-------------------------------
 <br/>
-<b>Setup Project</b>
+<b>Setup Project<b>
 <br/>
 //-------------------------------
 <br/>
-=>npm install / npm i
+=><i>npm install / npm i</i>
 <br/>
-=>npm run dev
+=><i>npm run dev</i>
 <br/>
 //------------------------------
 <br/>
-Context
+<b>Context</b>
 <br/>
 //------------------------------
 <br/>
@@ -18,7 +18,7 @@ It's an Art Gallery Application for my art history lesson.
 <br/>
 //------------------------------
 <br/>
-About Application
+<b>About Application</b>
 <br/>
 //------------------------------
 <br/>
