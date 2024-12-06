@@ -2,7 +2,7 @@
 <h1>Vanedium</h1>
 <h4>Art Gallary</h4>
 </center>
-<hr></hr>
+
 //-------------------------------
 <br/>
 <b><h3>Setup Project</h3><b>
