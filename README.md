@@ -22,6 +22,13 @@
 It's an Art Gallery Application for my art history lesson.
 <br/>
 
+
+<hr/>
+/*------------------
+<br/>
+* Author: Ünsal Demircioğlu
+<br/>
+------------------*/
 <br/>
 <b><h3>About Application</h3></b>
 <br/>
@@ -34,10 +41,3 @@ It's an Art Gallery Application for my art history lesson.
 ![vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv](https://github.com/user-attachments/assets/467ee75b-4ce6-44af-81a1-192848db4190)
 <br/>
 <br/>
-
-<hr/>
-/*------------------
-<br/>
-* Author: Ünsal Demircioğlu
-<br/>
-------------------*/
