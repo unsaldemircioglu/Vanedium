@@ -1,3 +1,8 @@
+<center>
+<h1>Vanedium</h1>
+<h4>Art Gallary</h4>
+</center>
+<hr></hr>
 //-------------------------------
 <br/>
 <b>Setup Project<b>
